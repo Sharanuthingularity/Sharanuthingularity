@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharanu.. It's my office github account.
 
-Development + Testing of firmware!
+Role: Embedded Firmware Engineer
 
 <!---
 Sharanuthingularity/Sharanuthingularity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
