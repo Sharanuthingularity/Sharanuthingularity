@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sharanu.. It's my office github account.
+- 👋 Hi, I’m Sharanu..
 
 Role: Embedded Firmware Engineer
 
